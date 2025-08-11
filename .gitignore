@@ -1,3 +1,4 @@
 content/
 composer_fusion_model.pth
 composer_lstm_model.pth
+composer_cnn_model.pth
